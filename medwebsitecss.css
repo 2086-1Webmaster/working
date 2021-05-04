@@ -1,0 +1,188 @@
+
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  @media screen and (min-width: 1000px) {
+    ul.navimg {
+      font-size: 40px;
+      margin-bottom:-150px;
+    }
+    .navheader {
+      font-size:70px;
+    }
+    .navmedia {
+      font-size:50px;
+    }
+  
+    .maincap1 {
+    font-size: 25px;
+    text-align: center;
+  }
+  
+  .imgleft {
+      width:50%;
+      margin-left:20px;
+  }
+  
+  .imgright {
+    width: 50%;
+    margin-left:20px;
+    float:right;
+  }
+  
+  .mobileinvis2 {
+    visibility: hidden;
+    display: none;
+  }
+  
+  .mobileinvis1 {
+    visibility: visible;
+  
+  }
+  
+  .logo {
+    width:350px;
+  }
+  
+  
+  .covidwarning {
+    font-size:50px;
+  }
+  
+  .bruh {
+    font-size:70px
+  }
+  .nav2:hover {
+    font-size: 85px;
+}
+
+.nav2 {
+    transition: all 0.5s;
+}
+
+.maincap {
+  font-size: 35px
+}
+  }
+  
+  
+  @media screen and (max-width: 1000px) {
+    ul.navimg {
+      font-size: 10px;
+      margin-top: -60px;
+      margin-left:27px
+    }
+  .navheader {
+    font-size:35px
+  }
+  
+  .navmedia {
+    font-size:15px;
+  }
+  
+  .maincap1 {
+    font-size: 5px;
+    animation:none;
+    margin-top:-75px;
+  }
+  
+  .imgleft {
+      width:39%;
+      margin-left:5px
+  }
+  
+  .imgright {
+    width:39%;
+    margin-left:5px;
+    float:right;
+   
+  }
+  .mobileinvis2 {
+    visibility: visible;
+  margin-top:-100px;
+  }
+  
+  
+  .mobileinvis1 {
+    visibility: hidden;
+  display: none;
+  }
+  
+  .logo {
+    width:150px;
+  }
+  
+  .covidwarning {
+    font-size: 17px;
+  }
+  
+  .bruh {
+    font-size:15px
+  }
+  .nav2:hover {
+    font-size: ""
+}
+
+.nav2 {
+    transition: "";
+    font-size: 20px
+}
+.maincap {
+  font-size:20px
+}
+
+  }
+  
+  
+  .rounded {
+    border-radius: 15px
+  }
+  
+  
+  body {
+    background-color: white;
+  }
+  
+  .highlight:hover{
+    background-color: gray;
+  }
+  
+  
+  .navbar-custom {
+    background-color: white;
+  }
+  
+  
+  div.testdiv {
+    background-color: black;
+    width:100px;
+    height:100px;
+  }
+
+
+  .home:hover {
+        color: gray;
+  }
+
+  .modal-title {
+      float:left;
+  }
+
+  div.hoverd:hover {
+      border: 5px double orange;
+  }
+  @font-face {
+    font-family: Neoteric;
+    src: url(Neoteric-32A8.ttf)
+  }
+
+  
+  .nav-link {
+    font-family: Neoteric;
+  }
+  
+
